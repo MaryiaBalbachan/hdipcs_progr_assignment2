@@ -1,6 +1,5 @@
-HDIP in Computer Science, WIT 2020
-Programming Fundamentals, Assignment 2
-Game created using Processing.
+HDIP in Computer Science, WIT 2020.
+Programming Fundamentals, Assignment 2. Game created using Processing.
 
 Brief Description: This game is called Pinball, a take on a classic arcade game. The programme takes advantage of
 the main principles covered in Pong analysed in class. The purpose of the game is to score maximum points. 
